@@ -1,5 +1,8 @@
 language: cpp
 compiler: gcc
 
+install:
+- apt-get install build-essential libboost-all-dev libssl-dev
+
 script:
 - make
