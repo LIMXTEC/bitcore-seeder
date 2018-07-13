@@ -1,5 +1,5 @@
 #!/bin/bash
-# Copyright (c) 2018 The BitCore BSD Core Developers (dalijolijo)
+# Copyright (c) 2018 The BitCore BTX Core Developers (dalijolijo)
 #set -x
 
 #

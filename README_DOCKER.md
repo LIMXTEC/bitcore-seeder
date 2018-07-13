@@ -17,5 +17,5 @@
 ### Deployment of Docker Solution
 Login as root, then only run the following script:
 ```
-sudo bash -c "$(curl -fsSL https://github.com/dalijolijo/bitcore-seeder/raw/master/btx-seeder-docker.sh)"
+sudo bash -c "$(curl -fsSL https://github.com/LIMXTEC/bitcore-seeder/raw/master/btx-seeder-docker.sh)"
 ```
